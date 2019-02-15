@@ -1,0 +1,53 @@
+nav.navbar, .navbar-default{
+    background-color: black !important;
+  
+}
+
+.logo{
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: url(../img/L111.png);
+    height: 51px;
+    width: 177px;
+}
+
+.navbar-default{
+    background-image: none;
+    border: none;
+    border-radius: 0%;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: rgb(61, 59, 59);
+}
+
+.navbar-default .navbar-brand{
+    color: rgb(61, 59, 59);
+}
+
+.navbar-default .navbar-toggle{
+    color: rgb(61, 59, 59);
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+    color: rgb(61, 59, 59);
+}
+
+.navbar-default .navbar-togge:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: rgb(61, 59, 59);
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: rgb(61, 59, 59);
+    background-color: transparent;
+}
+
+
+
+
+
